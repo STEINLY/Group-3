@@ -2,10 +2,10 @@
 # coding=utf-8
 """This script uploads a plugin package to the plugin repository.
         Authors: A. Pasotti, V. Picavet
-        begin                : 2020-01-16
-        copyright            : (C) Jarvis2030
-        email                : okomojacob2030@gmail.com
-        git source           : https://github.com/Jarvis2030/Qgis-Extension.git
+        begin                : 2020-02-03
+        copyright            : (C) Stein
+        email                : dickmukaria@gmail.com
+        git source           : https://github.com/STEINLY/Group-3.git
 
 import sys
 import getpass
